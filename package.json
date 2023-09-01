@@ -1,0 +1,45 @@
+{
+  "name": "achyut-mui-comps",
+  "version": "1.0.0",
+  "description": "Reusable MUI components with react-hook-form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AchyutProj/MUIComps.git"
+  },
+  "keywords": [
+    "mui",
+    "react",
+    "javascript",
+    "typescript",
+    "components"
+  ],
+  "author": "Achyut Neupane <achyutkneupane@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AchyutProj/MUIComps/issues"
+  },
+  "homepage": "https://github.com/AchyutProj/MUIComps#readme",
+  "dependencies": {
+    "@mui/icons-material": "^5.14.7",
+    "@mui/material": "^5.14.7",
+    "@mui/styled-engine-sc": "^5.14.7",
+    "@mui/x-date-pickers": "^6.12.1",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@types/react-dom": "^18.2.7",
+    "dayjs": "^1.11.9",
+    "material-react-table": "^1.14.0",
+    "moment": "^2.29.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.45.4",
+    "react-hot-toast": "^2.4.1",
+    "react-redux": "^8.1.2",
+    "react-router-dom": "^6.15.0",
+    "styled-components": "^5.3.11",
+    "vite-tsconfig-paths": "^4.2.0"
+  }
+}
