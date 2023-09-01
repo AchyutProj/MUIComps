@@ -1,5 +1,5 @@
 {
-  "name": "achyut-mui-comps",
+  "name": "@an/mui-comps",
   "version": "1.0.0",
   "description": "Reusable MUI components with react-hook-form",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AchyutProj/MUIComps.git"
+    "url": "git+ssh://github.com/AchyutProj/MUIComps.git"
   },
   "keywords": [
     "mui",
