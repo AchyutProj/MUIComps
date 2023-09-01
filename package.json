@@ -41,5 +41,9 @@
     "react-router-dom": "^6.15.0",
     "styled-components": "^5.3.11",
     "vite-tsconfig-paths": "^4.2.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
