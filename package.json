@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://github.com/AchyutProj/MUIComps.git"
+    "url": "git+https://github.com/AchyutProj/MUIComps.git"
   },
   "keywords": [
     "mui",
