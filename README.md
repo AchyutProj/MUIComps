@@ -1,5 +1,7 @@
 # MUI Components
 
+[![Publish to NPMJS](https://github.com/AchyutProj/MUIComps/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/AchyutProj/MUIComps/actions/workflows/npm-publish.yml)
+
 ## Introduction
 
 Feel free to use it. Introduction section coming soon.
