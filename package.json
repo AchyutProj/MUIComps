@@ -1,5 +1,5 @@
 {
-  "name": "@an/mui-comps",
+  "name": "@achyutn/mui-comps",
   "version": "1.0.0",
   "description": "Reusable MUI components with react-hook-form",
   "main": "index.js",
